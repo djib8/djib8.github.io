@@ -1,0 +1,908 @@
+body {
+    background-image : url("imagefondscooterpage.jpg");
+    background-attachment: fixed;
+    background-size : 100%;
+    width : 8000px;
+    height : 5000px;
+    zoom : 90%;
+    position: relative;
+    right : 8px;
+    bottom : 8px;
+        font-family: "Kanit", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        overflow-x : hidden;
+       
+}
+a:hover {
+    text-shadow :10px 0px 30px rgb(236, 182, 94)  ;
+}
+.barre {
+    color : white;
+    /*------------------------------------------------------------*/    
+        position :relative;
+        bottom : 10px;
+        right : 10px;
+    /*------------------------------------------------------------*/       
+        background-color : gray;
+        opacity : 0.5;
+    /*------------------------------------------------------------*/       
+        padding : 50px;
+    /*------------------------------------------------------------*/   
+        font-size: 25px;
+      
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 700;
+        font-style: normal;  
+}
+
+
+/* DIV BARRE -----------------------------------------------------------*/
+/*1er PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+/*1er PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+/* NAV BARRE MISE EN PAGE DE DEBUT ----------------------------------------! */ 
+/* DIV BARRE -----------------------------------------------------------*/
+.p
+{
+position :relative;
+left : 1000px;
+
+}
+.img
+{
+    position :relative;
+    width : 150px;
+    bottom : 150px;
+
+}
+
+a 
+{
+    text-decoration : none;
+    color : white;
+    display :inline;
+}
+
+.a0 
+{
+    padding : 10px;
+}    
+.a1
+{
+   padding : 10px;
+}
+.a2
+{
+    padding : 10px;
+    
+}
+.a3 
+{
+    padding : 10px;
+  
+}
+
+.a4
+{
+    padding : 10px;
+  
+}
+
+.a5
+{
+    padding : 10px;
+     
+}
+.a6
+{
+    border : 10px solid;
+    border-width : 10px;
+    border-color : white ;
+    border-right : 10px;
+    border-top : 10px;
+    border-bottom : 10px;
+    padding-left : 15px;
+}
+
+
+
+/*1er PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+/*1er PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+/* NAV BARRE MISE EN PAGE DE DEBUT ----------------------------------------! */ 
+/* DIV BARRE -----------------------------------------------------------*/
+
+/* 2ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+/* 2ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+
+h1 {
+
+ 
+      color : gray;
+        font-family: "Racing Sans One", sans-serif;
+        font-weight: 400;
+        font-style: normal;  
+        font-size : 90px;
+        letter-spacing : 5px;
+        position : relative;
+        bottom : 170px;
+        left : 500px;
+        opacity: 0.8;
+        text-shadow : 30px 0px 30px gray;
+}
+.parag1
+{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 700;
+    font-style: normal;  
+    font-size : 20px;
+    color :blanchedalmond;
+    letter-spacing : 6px;
+    position : relative;
+    bottom: 170px;
+    left: 300px;
+    opacity: 0.8;
+    text-shadow : 30px 0px 30px blanchedalmond;
+    
+}
+
+.parag1bis
+{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 700;
+    font-style: normal;  
+    font-size : 20px;
+    color :blanchedalmond;
+    letter-spacing : 6px;
+    position : relative;
+    right : 40px;
+    word-spacing : 30px;
+}
+
+/* 2ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+/* 2ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+/* MISE EN VENTE PREMIER SCOOTER */
+
+.displayinline
+{
+    display : inline;
+    right : 24px;
+}
+
+.s1
+{
+    display: inline-block;
+    border : 10px solid ;
+    border-color : rgb(26, 24, 21);
+    border-style : ridge;
+    box-shadow : 10px 50px 30px rgb(255, 244, 226)  ;
+    opacity :1;
+    padding-bottom : 70px;
+    width : 300px;
+    height : 300px;
+    position : relative;
+    left : 100px; 
+    background-color: rgb(241, 233, 218);
+    opacity : 0.8;
+}
+
+.I1
+{
+    width : 400px;
+    position : relative;
+    top : 25px;
+    opacity :1;
+    
+}
+
+.positionimage1
+{
+    width : 400px;
+    position : relative;
+    top : 60px;
+    right : 52px;
+    opacity :1;
+}
+
+.mev1
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    bottom :400px;
+    left : 165px;
+    font-size : 30px;
+    
+}
+.prixmev1
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    bottom : 150px;
+    left : 165px;
+    font-size : 30px;
+    
+}
+
+
+
+/* MISE EN VENTE PREMIER SCOOTER */
+
+/* MISE EN VENTE DEUXIEME SCOOTER */
+
+.displayinline
+{
+    display : inline;
+    position : relative;
+    
+}
+
+.s2
+{
+ display: inline-block;
+ border : 10px solid ;
+ border-color : rgb(26, 24, 21);
+ border-style : ridge;
+ box-shadow : 10px 50px 30px rgb(255, 244, 226)  ;
+ opacity :1;
+ padding-bottom : 70px;
+ padding-left : -200px; 
+ height : 300px;
+ position : relative;
+ left : 500px;
+ bottom : 550px;
+ background-color: rgb(241, 233, 218);
+ opacity : 0.8;
+}
+
+.I2
+{
+    width : 300px;
+    position : relative;
+    top : 25px;
+    opacity :1;
+    
+}
+
+.positionimage2
+{
+   width : 200px;
+   position : relative;
+   
+   top : 60px;
+   
+}
+
+.mev2
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    left : 558px;
+    bottom : 954px;
+    font-size : 30px;
+    
+}
+.prixmev2
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    left : 600px;
+    bottom : 700px;
+    font-size : 30px;
+    
+}
+
+
+/* MISE EN VENTE DEUXIEME SCOOTER */
+/* MISE EN VENTE TROISIEME SCOOTER */
+
+.displayinline
+{
+    display : inline;
+}
+
+.s3
+{
+ display: inline-block;
+ border : 10px solid ;
+ border-color : rgb(26, 24, 21);
+ border-style : ridge;
+ box-shadow : 10px 50px 30px rgb(255, 244, 226)  ;
+ opacity :1;
+ padding-bottom : 70px;
+ padding-left : -200px; 
+ height : 300px;
+ position : relative;
+ left : 900px;
+ bottom : 1100px;
+ background-color: rgb(241, 233, 218);
+ opacity : 0.8;
+}
+
+.I3
+{
+    width : 300px;
+    position : relative;
+    top : 25px;
+    opacity :1;
+    
+}
+
+.positionimage3
+{
+   width : 200px;
+   position : relative;
+   top : 60px;
+   
+}
+
+.mev3
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    left : 952px;
+    bottom : 1500px;
+    font-size : 30px;
+    
+}
+.prixmev3
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    left : 1000px;
+    bottom : 1250px;
+    font-size : 30px;
+    
+}
+/* MISE EN VENTE TROISIEME SCOOTER */
+
+/* MISE EN VENTE QUATRIEME SCOOTER */
+.displayinline
+{
+    display : inline;
+}
+.dplc1
+{
+    position : relative;
+    left : 400px;
+    bottom : 550px;
+    bottom
+}
+.s4
+{
+ display: inline-block;
+ border : 10px solid ;
+ border-color : rgb(26, 24, 21);
+ border-style : ridge;
+ box-shadow : 10px 50px 30px rgb(255, 244, 226)  ;
+ opacity :1;
+ padding-bottom : 70px;
+ padding-left : -200px; 
+ height : 300px;
+ position : relative;
+ left : 900px;
+ bottom : 1100px;
+ width: 300px;
+ background-color: rgb(241, 233, 218);
+ opacity : 0.8;
+}
+
+.I4
+{
+    width : 425px;
+    position : relative;
+    top : 25px;
+    opacity :1;
+    
+}
+
+.positionimage4
+{
+   position : relative;
+   top : 35px;
+   right : 65px;
+   
+}
+
+.mev4
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    left : 986px;
+    bottom : 1500px;
+    font-size : 30px;
+    
+}
+.prixmev4
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    left : 1000px;
+    bottom : 1250px;
+    font-size : 30px;
+    
+}
+
+/* MISE EN VENTE QUATRIEME SCOOTER */
+/* MISE EN VENTE CINQUIEME SCOOTER */
+.displayinline
+{
+    display : inline;
+}
+.dplc2
+{
+    position : relative;
+    left : 800px;
+    bottom : 1100px;
+    
+}
+.s5
+{
+ display: inline-block;
+ border : 10px solid ;
+ border-color : rgb(26, 24, 21);
+ border-style : ridge;
+ box-shadow : 10px 50px 30px rgb(255, 244, 226)  ;
+ opacity :1;
+ padding-bottom : 70px;
+ padding-left : -200px; 
+ height : 300px;
+ position : relative;
+ left : 900px;
+ bottom : 1100px;
+ width: 300px;
+ background-color: rgb(241, 233, 218);
+ opacity : 0.8;
+}
+
+.I5
+{
+    width : 321px;
+    position : relative;
+    top : 25px;
+    opacity :1;
+    
+}
+
+.positionimage5
+{
+   position : relative;
+   top : 20px;
+   right : 13px;
+   
+}
+
+.mev5
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    left : 986px;
+    bottom : 1500px;
+    font-size : 30px;
+    
+}
+.prixmev5
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    left : 1000px;
+    bottom : 1250px;
+    font-size : 30px;
+    
+}
+/* MISE EN VENTE CINQUIEME SCOOTER */
+.rc2p {
+      position : relative;
+      bottom : 2200px;
+      left : 50px;
+}
+/* MISE EN VENTE SIXIEME SCOOTER */
+
+.displayinline
+{
+    display : inline;
+    right : 24px;
+}
+
+.s6
+{
+    display: inline-block;
+    border : 10px solid ;
+    border-color : rgb(26, 24, 21);
+    border-style : ridge;
+    box-shadow : 10px 50px 30px rgb(255, 244, 226)  ;
+    opacity :1;
+    padding-bottom : 70px;
+    width : 300px;
+    height : 300px;
+    position : relative;
+    left : 100px; 
+    background-color: rgb(241, 233, 218);
+    opacity : 0.8;
+}
+
+.I6
+{
+    width : 350px;
+    position : relative;
+    top : 25px;
+    opacity :1;
+    
+}
+
+.positionimage6
+{
+    width : 400px;
+    position : relative;
+    top : 60px;
+    right : 25px;
+    opacity :1;
+}
+
+.mev6
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    bottom :400px;
+    left : 133px;
+    font-size : 30px;
+    
+}
+.prixmev6
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    bottom : 150px;
+    left : 206px;
+    font-size : 30px;
+    
+}
+
+
+
+/* MISE EN VENTE SIXIEME SCOOTER */
+
+/* MISE EN VENTE SEPTIEME SCOOTER */
+
+.displayinline
+{
+    display : inline;
+    position : relative;
+    
+}
+
+.s7
+{
+ display: inline-block;
+ border : 10px solid ;
+ border-color : rgb(26, 24, 21);
+ border-style : ridge;
+ box-shadow : 10px 50px 30px rgb(255, 244, 226)  ;
+ opacity :1;
+ padding-bottom : 70px;
+ padding-left : -200px; 
+ height : 300px;
+ position : relative;
+ left : 500px;
+ width : 300px;
+ bottom : 550px;
+ background-color: rgb(241, 233, 218);
+ opacity : 0.8;
+}
+
+.I7
+{
+    width : 280px;
+    position : relative;
+    top : 25px;
+    opacity :1;
+    
+}
+
+.positionimage7
+{
+   width : 200px;
+   position : relative;
+   left : 10px; 
+   top : 60px;
+   
+}
+
+.mev7
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    left : 532px;
+    bottom : 954px;
+    font-size : 30px;
+    
+}
+.prixmev7
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    left : 599px;
+    bottom : 700px;
+    font-size : 30px;
+    
+}
+
+
+/* MISE EN VENTE SEPTIEME SCOOTER */
+/* MISE EN VENTE HUITIEME SCOOTER */
+
+.displayinline
+{
+    display : inline;
+}
+
+.s8
+{
+ display: inline-block;
+ border : 10px solid ;
+ border-color : rgb(26, 24, 21);
+ border-style : ridge;
+ box-shadow : 10px 50px 30px rgb(255, 244, 226)  ;
+ opacity :1;
+ padding-bottom : 70px;
+ padding-left : -200px; 
+ height : 300px;
+ position : relative;
+ left : 900px;
+ bottom : 1100px;
+ width : 300px;
+ background-color: rgb(241, 233, 218);
+ opacity : 0.8;
+}
+
+.I8
+{
+    width : 370px;
+    position : relative;
+    top : 25px;
+    left : 17px;
+    opacity :1;
+    
+}
+
+.positionimage8
+{
+   width : 200px;
+   position : relative;
+   top : 60px;
+   
+}
+
+.mev8
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    left : 944px;
+    bottom : 1500px;
+    font-size : 30px;
+    
+}
+.prixmev8
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    left : 1000px;
+    bottom : 1250px;
+    font-size : 30px;
+    
+}
+/* MISE EN VENTE HUITIEME SCOOTER */
+
+/* MISE EN VENTE NEUVIEME SCOOTER */
+.displayinline
+{
+    display : inline;
+}
+.dplc9
+{
+    position : relative;
+    left : 400px;
+    bottom : 550px;
+    bottom
+}
+.s9
+{
+ display: inline-block;
+ border : 10px solid ;
+ border-color : rgb(26, 24, 21);
+ border-style : ridge;
+ box-shadow : 10px 50px 30px rgb(255, 244, 226)  ;
+ opacity :1;
+ padding-bottom : 70px;
+ padding-left : -200px; 
+ height : 300px;
+ position : relative;
+ left : 900px;
+ bottom : 1100px;
+ width: 300px;
+ background-color: rgb(241, 233, 218);
+ opacity : 0.8;
+}
+
+.I9
+{
+    width : 490px;;
+    position : relative;
+    top : 25px;
+    opacity :1;
+    
+}
+
+.positionimage9
+{
+   position : relative;
+   top : 35px;
+   right : 72px;
+   
+}
+
+.mev9
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    left : 966px;
+    bottom : 1500px;
+    font-size : 30px;
+    
+}
+.prixmev9
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    left : 1000px;
+    bottom : 1250px;
+    font-size : 30px;
+    
+}
+
+/* MISE EN VENTE NEUVIEME SCOOTER */
+/* MISE EN VENTE DIXIEME SCOOTER */
+.displayinline
+{
+    display : inline;
+}
+.dplc10
+{
+    position : relative;
+    left : 800px;
+    bottom : 1100px;
+    
+}
+.s10
+{
+ display: inline-block;
+ border : 10px solid ;
+ border-color : rgb(26, 24, 21);
+ border-style : ridge;
+ box-shadow : 10px 50px 30px rgb(255, 244, 226)  ;
+ opacity :1;
+ padding-bottom : 70px;
+ padding-left : -200px; 
+ height : 300px;
+ position : relative;
+ left : 900px;
+ bottom : 1100px;
+ width: 300px;
+ background-color: rgb(241, 233, 218);
+ opacity : 0.8;
+}
+
+.I10
+{
+    width : 280px;
+    position : relative;
+    top : 25px;
+    opacity :1;
+    
+    
+}
+
+.positionimage10
+{
+   position : relative;
+   top : 40px;
+   
+   
+}
+
+.mev10
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    left : 936px;
+    bottom : 1500px;
+    font-size : 30px;
+    
+}
+.prixmev10
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    left : 1000px;
+    bottom : 1250px;
+    font-size : 30px;
+    
+}

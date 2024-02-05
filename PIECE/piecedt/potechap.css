@@ -1,0 +1,407 @@
+body {
+    background-image : url("imagefondp.jpg");
+    background-attachment: fixed;
+    background-size : 100%;
+    width : 8000px;
+    height : 5000px;
+    zoom : 90%;
+    position: relative;
+    right : 8px;
+    bottom : 8px;
+        font-family: "Kanit", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        overflow-x : hidden;
+        overflow-y : hidden;
+
+        
+}
+a:hover {
+    text-shadow :10px 0px 20px rgb(255, 232, 194)  ;
+}
+.barre {
+    color : white;
+    /*------------------------------------------------------------*/    
+        position :relative;
+        bottom : 10px;
+        right : 10px;
+    /*------------------------------------------------------------*/       
+        background-color : gray;
+        opacity : 0.5;
+    /*------------------------------------------------------------*/       
+        padding : 50px;
+    /*------------------------------------------------------------*/   
+        font-size: 25px;
+      
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 700;
+        font-style: normal;  
+        
+}
+
+
+/* DIV BARRE -----------------------------------------------------------*/
+/*1er PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+/*1er PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+/* NAV BARRE MISE EN PAGE DE DEBUT ----------------------------------------! */ 
+/* DIV BARRE -----------------------------------------------------------*/
+.p
+{
+position :relative;
+left : 1000px;
+
+}
+.img
+{
+    position :relative;
+    width : 150px;
+    bottom : 150px;
+
+}
+
+a 
+{
+    text-decoration : none;
+    color : white;
+    display :inline;
+}
+
+.a0 
+{
+    padding : 10px;
+}    
+.a1
+{
+   padding : 10px;
+}
+.a2
+{
+    padding : 10px;
+    
+}
+.a3 
+{
+    padding : 10px;
+  
+}
+
+.a4
+{
+    padding : 10px;
+  
+}
+
+.a5
+{
+    padding : 10px;
+     
+}
+.a6
+{
+    border : 10px solid;
+    border-width : 10px;
+    border-color : white ;
+    border-right : 10px;
+    border-top : 10px;
+    border-bottom : 10px;
+    padding-left : 15px;
+}
+
+
+
+/*1er PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+/*1er PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+/* NAV BARRE MISE EN PAGE DE DEBUT ----------------------------------------! */ 
+/* DIV BARRE -----------------------------------------------------------*/
+
+/* 2ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+/* 2ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+
+h1 {
+
+ 
+      color : rgb(243, 228, 205);
+        font-family: "Racing Sans One", sans-serif;
+        font-weight: 400;
+        font-style: normal;  
+        font-size : 90px;
+        letter-spacing : 5px;
+        position : relative;
+        bottom : 50px;
+        left : 430px;
+        opacity: 0.8;
+        text-shadow : 30px 0px 30px rgb(248, 190, 103);
+}
+.parag1
+{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 700;
+    font-style: normal;  
+    font-size : 20px;
+    color :blanchedalmond;
+    text-shadow : 0px 0px 30px rgb(224, 177, 107);
+    letter-spacing : 6px;
+    position : relative;
+    bottom: 90px;
+    left: 390px;
+    
+}
+
+.parag1bis
+{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 700;
+    font-style: normal;  
+    font-size : 20px;
+    color :gray;
+    letter-spacing : 6px;
+    position : relative;
+    right : 40px;
+    word-spacing : 30px;
+}
+
+/* 2ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+/* 2ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+.dppall
+{
+    position:relative;
+    bottom : 150px;
+}
+/* MISE EN VENTE PREMIER PIECE */
+.dpp1
+{
+    position : relative;
+    left : 50px;
+}
+.displayinline
+{
+    display : inline;
+    right : 24px;
+}
+
+.s1
+{
+    display: inline-block;
+    border : 10px solid ;
+    border-color : rgb(26, 24, 21);
+    border-style : ridge;
+    box-shadow : 10px 50px 30px rgb(255, 232, 194)  ;
+    border-radius :80px;
+    opacity :1;
+    padding-bottom : 70px;
+    width : 300px;
+    height : 300px;
+    position : relative;
+    left : 100px; 
+    background-color: rgb(0, 0, 0);
+    opacity : 0.8;
+}
+
+.I1
+{
+    width : 270px;
+    position : relative;
+    top : 25px;
+    opacity :1;
+    
+}
+
+.positionimage1
+{
+    width : 400px;
+    position : relative;
+    top : 60px;
+    left : 10px;
+    opacity :1;
+}
+
+.mev1
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: blanchedalmond;
+    opacity : 1;
+    position : relative ;
+    bottom :400px;
+    left : 195px;
+    font-size : 30px;
+    
+}
+.prixmev1
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: blanchedalmond;
+    opacity : 1;
+    position : relative ;
+    bottom : 150px;
+    left : 205px;
+    font-size : 30px;
+    
+}
+
+
+
+/* MISE EN VENTE PREMIER PIECE */
+/* MISE EN VENTE DEUXIEME PIECE */
+.dpp2
+{
+    position :relative;
+    left: 750px;
+    bottom : 550px;
+}
+.displayinline
+{
+    display : inline;
+    right : 24px;
+}
+
+.s2
+{
+    display: inline-block;
+    border : 10px solid ;
+    border-color : rgb(26, 24, 21);
+    border-style : ridge;
+    box-shadow : 10px 50px 30px rgb(255, 232, 194)  ;
+    border-radius :80px;
+    opacity :1;
+    padding-bottom : 70px;
+    width : 300px;
+    height : 300px;
+    position : relative;
+    left : 100px; 
+    background-color: rgb(0, 0, 0);
+    opacity : 0.8;
+}
+
+.I2
+{
+    width : 270px;
+    position : relative;
+    top : 25px;
+    opacity :1;
+    
+}
+
+.positionimage2
+{
+    width : 400px;
+    position : relative;
+    top : 25px;
+    left : 22px;
+    opacity :1;
+}
+
+.mev2
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: blanchedalmond;
+    opacity : 1;
+    position : relative ;
+    bottom :400px;
+    left : 160px;
+    font-size : 30px;
+    
+}
+.prixmev2
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: blanchedalmond;
+    opacity : 1;
+    position : relative ;
+    bottom : 150px;
+    left : 205px;
+    font-size : 30px;
+    
+}
+
+
+
+/* MISE EN VENTE DEUXIEME PIECE */
+/* MISE EN VENTE TROISIEME PIECE */
+.dpp3 {
+    position : relative;
+    left : 1450px;
+    bottom : 1100px;
+}
+.displayinline
+{
+    display : inline;
+    right : 24px;
+}
+
+.s3
+{
+    display: inline-block;
+    border : 10px solid ;
+    border-color : rgb(26, 24, 21);
+    border-style : ridge;
+    box-shadow : 10px 50px 30px rgb(255, 232, 194)  ;
+    border-radius :80px;
+    opacity :1;
+    padding-bottom : 70px;
+    width : 300px;
+    height : 300px;
+    position : relative;
+    left : 100px; 
+    background-color: rgb(0, 0, 0);
+    opacity : 0.8;
+}
+
+.I3
+{
+    width : 270px;
+    position : relative;
+    top : 25px;
+    opacity :1;
+    
+}
+
+.positionimage3
+{
+    width : 400px;
+    position : relative;
+    top : 60px;
+    left : 10px;
+    opacity :1;
+}
+
+.mev3
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: blanchedalmond;
+    opacity : 1;
+    position : relative ;
+    bottom :400px;
+    left : 175px;
+    font-size : 30px;
+    
+}
+.prixmev3
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: blanchedalmond;
+    opacity : 1;
+    position : relative ;
+    bottom : 150px;
+    left : 205px;
+    font-size : 30px;
+    
+}
+
+
+
+/* MISE EN VENTE TROISIEME PIECE */
+/*-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_/*
+/*-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_/*
+/*-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_/*
