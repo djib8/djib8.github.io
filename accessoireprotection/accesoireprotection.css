@@ -1,0 +1,871 @@
+body {
+    background-image : url("imagefonda.jpg");
+    background-attachment: fixed;
+    background-size : 100%;
+    width : 8000px;
+    height : 5000px;
+    zoom : 90%;
+    position: relative;
+    right : 8px;
+    bottom : 8px;
+        font-family: "Kanit", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        overflow-x : hidden;
+        overflow-y : scroll;
+}
+a:hover {
+    text-shadow :10px 0px 30px greenyellow;
+}
+.barre {
+    color : white;
+    /*------------------------------------------------------------*/    
+        position :relative;
+        bottom : 10px;
+        right : 10px;
+    /*------------------------------------------------------------*/       
+        background-color : gray;
+        opacity : 0.5;
+    /*------------------------------------------------------------*/       
+        padding : 50px;
+    /*------------------------------------------------------------*/   
+        font-size: 25px;
+      
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 700;
+        font-style: normal;  
+}
+
+.dppall {
+    position : relative;
+    bottom : 130px;
+    left : 50px;
+}
+/* DIV BARRE -----------------------------------------------------------*/
+/*1er PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+/*1er PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+/* NAV BARRE MISE EN PAGE DE DEBUT ----------------------------------------! */ 
+/* DIV BARRE -----------------------------------------------------------*/
+.p
+{
+position :relative;
+left : 1000px;
+
+}
+.img
+{
+    position :relative;
+    width : 150px;
+    bottom : 150px;
+
+}
+
+a 
+{
+    text-decoration : none;
+    color : white;
+    display :inline;
+}
+
+.a0 
+{
+    padding : 10px;
+}    
+.a1
+{
+   padding : 10px;
+}
+.a2
+{
+    padding : 10px;
+    
+}
+.a3 
+{
+    padding : 10px;
+  
+}
+
+.a4
+{
+    padding : 10px;
+  
+}
+
+.a5
+{
+    padding : 10px;
+     
+}
+.a6
+{
+    border : 10px solid;
+    border-width : 10px;
+    border-color : white ;
+    border-right : 10px;
+    border-top : 10px;
+    border-bottom : 10px;
+    padding-left : 15px;
+}
+
+
+
+/*1er PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+/*1er PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+/* NAV BARRE MISE EN PAGE DE DEBUT ----------------------------------------! */ 
+/* DIV BARRE -----------------------------------------------------------*/
+
+/* 2ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+/* 2ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+
+h1 {
+
+ 
+      color : rgb(236, 236, 173);
+        font-family: "Racing Sans One", sans-serif;
+        font-weight: 400;
+        font-style: normal;  
+        font-size : 90px;
+        letter-spacing : 5px;
+        position : relative;
+        bottom : 100px;
+        left : 200px;
+        opacity: 1;
+        text-shadow : 30px 0px 30px gray;
+}
+.parag1
+{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 700;
+    font-style: normal;  
+    font-size : 20px;
+    color :rgb(236, 236, 173);
+    letter-spacing : 6px;
+    position : relative;
+    bottom: 150px;
+    left: 300px;
+    
+}
+
+.parag1bis
+{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 700;
+    font-style: normal;  
+    font-size : 20px;
+    color :gray;
+    letter-spacing : 6px;
+    position : relative;
+    right : 40px;
+    word-spacing : 30px;
+}
+.dppacces1-3 {
+        position : relative;
+        right : 40px;
+        bottom : 100px;
+}
+/* 2ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+/* 2ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+/* MISE EN VENTE PREMIER ACCESPROTEC */
+.dpp1 {
+    position : relative;
+    left : 400px;
+}
+.displayinline
+{
+    display : inline;
+    right : 24px;
+}
+
+.s1
+{
+    display: inline-block;
+    border : 10px solid ;
+    border-color : rgb(26, 24, 21);
+    border-style : ridge;
+    box-shadow : 10px 50px 30px rgb(255, 255, 172)  ;
+    opacity :1;
+    padding-bottom : 70px;
+    width : 300px;
+    height : 300px;
+    position : relative;
+    left : 100px; 
+    background-color:rgb(179, 179, 122);
+    opacity : 0.8;
+}
+
+.I1
+{
+    width : 275px;
+    position : relative;
+    top : 25px;
+    opacity :1;
+    
+}
+
+.positionimage1
+{
+    width : 400px;
+    position : relative;
+    top : 20px;
+    opacity :1;
+}
+
+.mev1
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    bottom :400px;
+    left : 155px;
+    font-size : 30px;
+    
+}
+.prixmev1
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    bottom : 150px;
+    left : 190px;
+    font-size : 30px;
+    
+}
+
+
+
+/* MISE EN VENTE PREMIERE ACCESPROTEC */
+/* MISE EN VENTE DEUXIEME ACCESPROTEC */
+.dpp2 {
+    position : relative;
+    left : 750px;
+    bottom : 550px;
+}
+.displayinline
+{
+    display : inline;
+    right : 24px;
+}
+
+.s2
+{
+    display: inline-block;
+    border : 10px solid ;
+    border-color : rgb(26, 24, 21);
+    border-style : ridge;
+    box-shadow : 10px 50px 30px rgb(255, 255, 172) ;
+    opacity :1;
+    padding-bottom : 70px;
+    width : 300px;
+    height : 300px;
+    position : relative;
+    left : 100px; 
+    background-color:rgb(177, 177, 128);
+    opacity : 0.8;
+}
+
+.I2
+{
+    width : 275px;
+    position : relative;
+    top : 25px;
+    opacity :1;
+    
+}
+
+.positionimage2
+{
+    width : 400px;
+    position : relative;
+    bottom: 10px;
+    opacity :1;
+}
+
+.mev2
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    bottom :400px;
+    left : 125px;
+    font-size : 30px;
+    
+}
+.prixmev2
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    bottom : 150px;
+    left : 185px;
+    font-size : 30px;
+    
+}
+
+
+
+/* MISE EN VENTE DEUXIEME ACCESPROTEC  */
+/* MISE EN VENTE TROISIEME ACCESPROTEC */
+.dpp3 {
+    position : relative;
+    left : 1100px;
+    bottom : 1100px;
+}
+.displayinline
+{
+    display : inline;
+    right : 24px;
+}
+
+.s3
+{
+    display: inline-block;
+    border : 10px solid ;
+    border-color : rgb(26, 24, 21);
+    border-style : ridge;
+    box-shadow : 10px 50px 30px rgb(255, 255, 172)  ;
+    opacity :1;
+    padding-bottom : 70px;
+    width : 300px;
+    height : 300px;
+    position : relative;
+    left : 100px; 
+    background-color:rgb(177, 177, 128);
+    opacity : 0.8;
+}
+
+.I3
+{
+    width : 305px;
+    position : relative;
+    top : 25px;
+    opacity :1;
+    
+}
+
+.positionimage3
+{
+    width : 400px;
+    position : relative;
+    top :10px;
+    right: 10px;
+    opacity :1;
+}
+
+.mev3
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    bottom :400px;
+    left : 165px;
+    font-size : 30px;
+    
+}
+.prixmev3
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    bottom : 150px;
+    left : 185px;
+    font-size : 30px;
+    
+}
+
+
+
+/* MISE EN VENTE TROISIEME ACCESPROTEC  */
+
+/* MISE EN VENTE QUATRIEME ACCESPROTEC */
+.dppacces4-6
+{
+    position :relative;
+    bottom : 1300px;
+    right : 40px;
+}
+.dpp1 {
+    position : relative;
+    left : 400px;
+}
+.displayinline
+{
+    display : inline;
+    right : 24px;
+}
+
+.s4
+{
+    display: inline-block;
+    border : 10px solid ;
+    border-color : rgb(26, 24, 21);
+    border-style : ridge;
+    box-shadow : 10px 50px 30px rgb(255, 255, 172)  ;
+    opacity :1;
+    padding-bottom : 70px;
+    width : 300px;
+    height : 300px;
+    position : relative;
+    left : 100px; 
+    background-color:rgb(179, 179, 122);
+    opacity : 0.8;
+}
+
+.I4
+{
+    width : 320px;
+    position : relative;
+    top : 25px;
+    opacity :1;
+    
+}
+
+.positionimage4
+{
+    width : 400px;
+    position : relative;
+    bottom : 20px;
+    right : 15px;
+    opacity :1;
+}
+
+.mev4
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    bottom :400px;
+    left : 170px;
+    font-size : 30px;
+    
+}
+.prixmev4
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    bottom : 150px;
+    left : 205px;
+    font-size : 30px;
+    
+}
+
+
+
+/* MISE EN VENTE QUATRIEME ACCESPROTEC */
+/* MISE EN VENTE CINQUIEME ACCESPROTEC */
+.dpp2 {
+    position : relative;
+    left : 750px;
+    bottom : 550px;
+}
+.displayinline
+{
+    display : inline;
+    right : 24px;
+}
+
+.s5
+{
+    display: inline-block;
+    border : 10px solid ;
+    border-color : rgb(26, 24, 21);
+    border-style : ridge;
+    box-shadow : 10px 50px 30px rgb(255, 255, 172) ;
+    opacity :1;
+    padding-bottom : 70px;
+    width : 300px;
+    height : 300px;
+    position : relative;
+    left : 100px; 
+    background-color:rgb(177, 177, 128);
+    opacity : 0.8;
+}
+
+.I5
+{
+    width : 265px;
+    position : relative;
+    top : 25px;
+    opacity :1;
+    
+}
+
+.positionimage5
+{
+    width : 400px;
+    position : relative;
+    top: 25px;
+    left : 16px;
+    opacity :1;
+}
+
+.mev5
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    bottom :400px;
+    left : 138px;
+    font-size : 30px;
+    
+}
+.prixmev5
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    bottom : 150px;
+    left : 210px;
+    font-size : 30px;
+    
+}
+
+
+
+/* MISE EN VENTE CINQUIEME ACCESPROTEC  */
+/* MISE EN VENTE SIXIEME ACCESPROTEC */
+.dpp3 {
+    position : relative;
+    left : 1100px;
+    bottom : 1100px;
+}
+.displayinline
+{
+    display : inline;
+    right : 24px;
+}
+
+.s6
+{
+    display: inline-block;
+    border : 10px solid ;
+    border-color : rgb(26, 24, 21);
+    border-style : ridge;
+    box-shadow : 10px 50px 30px rgb(255, 255, 172)  ;
+    opacity :1;
+    padding-bottom : 70px;
+    width : 300px;
+    height : 300px;
+    position : relative;
+    left : 100px; 
+    background-color:rgb(177, 177, 128);
+    opacity : 0.8;
+}
+
+.I6
+{
+    width : 340px;
+    position : relative;
+    top : 25px;
+    opacity :1;
+    
+}
+
+.positionimage6
+{
+    width : 400px;
+    position : relative;
+    bottom : 20px;
+    right : 25px;
+    opacity :1;
+}
+
+.mev6
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    bottom :400px;
+    left : 135px;
+    font-size : 30px;
+    
+}
+.prixmev6
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    bottom : 150px;
+    left : 185px;
+    font-size : 30px;
+    
+}
+
+
+
+/* MISE EN VENTE SIXIEME ACCESPROTEC  */
+/* MISE EN VENTE SEPTIEME ACCESPROTEC */
+.dppacces7-9
+{
+    position :relative;
+    bottom : 2500px;
+    right : 40px;
+}
+.dpp1 {
+    position : relative;
+    left : 400px;
+}
+.displayinline
+{
+    display : inline;
+    right : 24px;
+}
+
+.s7
+{
+    display: inline-block;
+    border : 10px solid ;
+    border-color : rgb(26, 24, 21);
+    border-style : ridge;
+    box-shadow : 10px 50px 30px rgb(255, 255, 172)  ;
+    opacity :1;
+    padding-bottom : 70px;
+    width : 300px;
+    height : 300px;
+    position : relative;
+    left : 100px; 
+    background-color:rgb(179, 179, 122);
+    opacity : 0.8;
+}
+
+.I7
+{
+    width : 280px;
+    position : relative;
+    top : 25px;
+    opacity :1;
+    
+}
+
+.positionimage7
+{
+    width : 400px;
+    position : relative;
+    top : 20px;
+    left : 5px;
+    opacity :1;
+}
+
+.mev7
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    bottom :400px;
+    left : 170px;
+    font-size : 30px;
+    
+}
+.prixmev7
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    bottom : 150px;
+    left : 190px;
+    font-size : 30px;
+    
+}
+
+
+
+/* MISE EN VENTE SEPTIEME ACCESPROTEC */
+/* MISE EN VENTE HUITIEME ACCESPROTEC */
+.dpp2 {
+    position : relative;
+    left : 750px;
+    bottom : 550px;
+}
+.displayinline
+{
+    display : inline;
+    right : 24px;
+}
+
+.s8
+{
+    display: inline-block;
+    border : 10px solid ;
+    border-color : rgb(26, 24, 21);
+    border-style : ridge;
+    box-shadow : 10px 50px 30px rgb(255, 255, 172) ;
+    opacity :1;
+    padding-bottom : 70px;
+    width : 300px;
+    height : 300px;
+    position : relative;
+    left : 100px; 
+    background-color:rgb(177, 177, 128);
+    opacity : 0.8;
+}
+
+.I8
+{
+    width : 295px;
+    position : relative;
+    top : 25px;
+    opacity :1;
+    
+}
+
+.positionimage8
+{
+    width : 400px;
+    position : relative;
+    top: 10px;
+    opacity :1;
+}
+
+.mev8
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    bottom :400px;
+    left : 168px;
+    font-size : 30px;
+    
+}
+.prixmev8
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    bottom : 150px;
+    left : 210px;
+    font-size : 30px;
+    
+}
+
+
+
+/* MISE EN VENTE HUITIEME ACCESPROTEC  */
+/* MISE EN VENTE NEUVIEME ACCESPROTEC */
+.dpp3 {
+    position : relative;
+    left : 1100px;
+    bottom : 1100px;
+}
+.displayinline
+{
+    display : inline;
+    right : 24px;
+}
+
+.s9
+{
+    display: inline-block;
+    border : 10px solid ;
+    border-color : rgb(26, 24, 21);
+    border-style : ridge;
+    box-shadow : 10px 50px 30px rgb(255, 255, 172)  ;
+    opacity :1;
+    padding-bottom : 70px;
+    width : 300px;
+    height : 300px;
+    position : relative;
+    left : 100px; 
+    background-color:rgb(177, 177, 128);
+    opacity : 0.8;
+}
+
+.I9
+{
+    width : 280px;
+    position : relative;
+    top : 25px;
+    opacity :1;
+    
+}
+
+.positionimage9
+{
+    width : 400px;
+    position : relative;
+    opacity :1;
+    top : 20px;
+    left : 8px;
+}
+
+.mev9
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    bottom :400px;
+    left : 175px;
+    font-size : 30px;
+    
+}
+.prixmev9
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    opacity : 1;
+    position : relative ;
+    bottom : 150px;
+    left : 185px;
+    font-size : 30px;
+    
+}
+
+
+
+/* MISE EN VENTE NEUVIEME ACCESPROTEC  */
+
+
+

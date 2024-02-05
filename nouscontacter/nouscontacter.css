@@ -1,0 +1,250 @@
+body {
+    overflow-x : hidden;
+    overflow-y : hidden;
+    zoom : 90%;
+}
+
+mark {
+    background-color: transparent; /* Définir la couleur de fond sur transparent */
+    color: gray; /* Utiliser la couleur du texte par défaut */
+    border: none; /* Supprimer la bordure */
+    
+}
+
+.imagedusite
+{
+    background-image : url("imagefondnc.jpg");
+    background-attachment: fixed;
+    background-size : 100%;
+    width : 8000px;
+    height : 5000px;
+    position: relative;
+    bottom : 8px;
+    right : 8px;
+        font-family: "Kanit", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        
+}
+
+/*1er PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+/*1er PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+/* NAV BARRE MISE EN PAGE DE DEBUT ----------------------------------------! */ 
+/* DIV BARRE -----------------------------------------------------------*/
+a:hover{
+    text-shadow :10px 0px 30px rgb(255, 232, 194)  ;
+
+}
+.barre {
+    color : white;
+    /*------------------------------------------------------------*/    
+        position :relative;
+        bottom : 10px;
+        right : 10px;
+    /*------------------------------------------------------------*/       
+        background-color : gray;
+        opacity : 0.5;
+    /*------------------------------------------------------------*/       
+        padding : 50px;
+    /*------------------------------------------------------------*/   
+        font-size: 25px;
+      
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 700;
+        font-style: normal;  
+}
+
+
+/* DIV BARRE -----------------------------------------------------------*/
+
+.p
+{
+position :relative;
+left : 1000px;
+
+}
+.img
+{
+    position :relative;
+    width : 150px;
+    bottom : 150px;
+
+}
+
+a 
+{
+    text-decoration : none;
+    color : white;
+    display :inline;
+}
+
+.a0 
+{
+    padding : 10px;
+}    
+.a1
+{
+   padding : 10px;
+}
+.a2
+{
+    padding : 10px;
+    
+}
+.a3 
+{
+    padding : 10px;
+  
+}
+
+.a4
+{
+    padding : 10px;
+  
+}
+
+.a5
+{
+    padding : 10px;
+     
+}
+.a6
+{
+    border : 10px solid;
+    border-width : 10px;
+    border-color : white ;
+    border-right : 10px;
+    border-top : 10px;
+    border-bottom : 10px;
+    padding-left : 15px;
+}
+/* NAV BARRE MISE EN PAGE DE DEBUT ----------------------------------------! */
+/*1er PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+/*1er PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+a {
+    text-transform : none;
+    text-decoration: none;
+}
+
+/* 2ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+/* 2ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+
+
+h1 {
+
+ 
+      color : rgb(243, 243, 139);
+        font-family: "Racing Sans One", sans-serif;
+        font-weight: 400;
+        font-style: normal;  
+        font-size : 90px;
+        letter-spacing : 5px;
+        position : relative;
+        bottom : 170px;
+        left : 450px;
+        opacity: 0.9;
+        text-shadow : 0px 0px 10px olive;
+}
+
+
+
+/*----------------ouvert 7/7---------------*/
+.ouvert
+{
+    display : inline;
+    font-family: "Racing Sans One", sans-serif;
+    font-weight: 400;
+    font-style: normal;  
+    color : gray;
+    position : relative;
+    font-size : 30px;
+    left :30px;
+    bottom : 400px;
+    word-spacing : 5px; 
+}
+
+
+/* 2ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+/* 2ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+
+
+
+/* 3ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+/* 3ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+/* LISTE EN DEFINITION --------------------------------*/
+
+/* bordure de la définition */
+a {
+    color:rgb(249, 249, 0);
+    
+}
+.paragbis:hover {
+    opacity:1;
+    color:black;
+
+}
+.parag1:hover {
+    background-color: rgb(255, 255, 170);
+    height : 500px;
+    color :black;
+    
+
+} 
+
+.sty{
+    background-color :black;
+    width : 8000px;
+    height : 150px;
+    border : 10px;
+    position : relative;
+    bottom : 70px;
+    opacity : 0.7;
+    
+    
+}
+
+.parag1 .paragbis {
+    display: inline;
+}
+
+.parag1
+{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 700;
+    font-style: normal;  
+    font-size : 30px;
+    box-shadow:  0px 10px 10px rgb(235, 235, 148);
+    border : 5px ridge rgb(250, 250, 139);
+    color : rgb(243, 243, 139);
+    background-color: black;
+    text-shadow : 0px 0px 10px olive;
+    position : relative;
+    bottom: 170px;
+    left: 100px;
+    width : 1850px;
+    height: 160px;
+    transition : color 5s ease, height 3s ease,
+    background-color 4s ease, opacity 5s ease ;
+    overflow :hidden;
+    
+
+     
+
+
+    
+}
+.paragbis {
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    display: inline;
+    position :relative;
+    left : 500px;
+    top : 100px;
+    text-shadow : 0px 0px 10px black;
+    transition : color 5s ease-in-out, opacity 1s ease;
+}
+.jst {
+    position:relative;
+    left : 700px;
+}

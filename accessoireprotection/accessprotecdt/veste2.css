@@ -1,0 +1,183 @@
+body {
+    background-image : url("imagefondap.jpg");
+    background-attachment: fixed;
+    background-size : 100%;
+    width : 8000px;
+    height : 5000px;
+    zoom : 90%;
+    position: relative;
+    right : 8px;
+    bottom : 8px;
+        font-family: "Kanit", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        overflow-x : hidden;
+
+
+        
+}
+.boutonarriere {
+    z-index: 1000;
+    font-size: 32px;
+    color: gray;
+    background-color: rgb(220, 220, 129);
+    opacity: 0.9;
+    position: absolute;
+    left: 30px;
+    padding-right: 20px;
+    padding-left: 20px;
+    text-transform: none;
+    text-decoration: none;
+}
+
+
+a:hover {
+    text-shadow :10px 0px 30px rgb(255, 232, 194)  ;
+}
+.dpp1:hover {
+    text-shadow :10px 0px 30px rgb(255, 232, 194)  ;
+}
+
+/*1er PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+/*1er PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+/* NAV BARRE MISE EN PAGE DE DEBUT ----------------------------------------! */ 
+/* DIV BARRE -----------------------------------------------------------*/
+.dppall {
+    position:relative;
+    bottom : 100px;
+}
+/* 2ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+/* 2ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+
+h1 {
+
+ 
+      color : rgb(231, 231, 144);
+        font-family: "Racing Sans One", sans-serif;
+        font-weight: 400;
+        font-style: normal;  
+        font-size : 90px;
+        letter-spacing : 5px;
+        position : relative;
+        left : 730px;
+        opacity: 1;
+        text-shadow : 30px 0px 30px olive;
+}
+.parag1
+{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 700;
+    font-style: normal;  
+    font-size : 20px;
+    color :rgb(231, 231, 144);
+    text-shadow : 0px 0px 30px rgb(224, 177, 107);
+    letter-spacing : 6px;
+    position : relative;
+    bottom : 30px;
+    left: 200px;
+    width : 1000px;
+    
+}
+
+.parag1bis
+{
+    display :block;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 900;
+    font-style: normal;  
+    font-size : 30px;
+    color :rgb(231, 231, 144);
+    position : relative;
+    top : 1700px;
+    left: 110px;
+    z-index : 1000;
+    width : 1800px;
+    letter-spacing : 2px;
+    line-height: 60px;
+}
+
+/* 2ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+/* 2ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+
+/* MISE EN VENTE PREMIER PIECE */
+.dpp1
+{
+    position : relative;
+    left : 50px;
+    bottom : 840px;
+    
+}
+.displayinline
+{
+    display : inline;
+    right : 24px;
+}
+
+.s1
+{
+    display: inline-block;
+    border : 10px solid ;
+    border-color : rgb(26, 24, 21);
+    border-style : ridge;
+    box-shadow : 10px 50px 30px rgb(255, 232, 194)  ;
+    border-radius :80px;
+    opacity :1;
+    padding-bottom : 70px;
+    width : 1800px;
+    height : 2200px;
+    position : relative;
+    left : 100px; 
+    bottom : 250px;
+    background-color: rgb(0, 0, 0);
+    opacity : 0.8;
+    z-index : -1000;
+}
+
+.I1
+{
+    width : 530px;
+    position : relative;
+    top : 25px;
+    opacity :1;
+    
+}
+
+.positionimage1
+{
+    width : 400px;
+    position : relative;
+    top :130px;
+    left : 640px;
+    opacity :1;
+}
+
+.mev1
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: rgb(231, 231, 144);
+    opacity : 1;
+    position : relative ;
+    bottom :2600px;
+    left : 700px;
+    font-size : 100px;
+    
+}
+.prixmev1
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: rgb(231, 231, 144);
+    opacity : 1;
+    position : relative ;
+    bottom :2180px;
+    left : 770px;
+    font-size : 100px;
+    
+}
+
+
+
+/* MISE EN VENTE PREMIER PIECE */

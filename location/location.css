@@ -1,0 +1,531 @@
+body {
+    background-image : url("imagefondl.jpg");
+    background-attachment: fixed;
+    background-size : 100%;
+    width : 8000px;
+    height : 2000px;
+    zoom : 90%;
+    position: relative;
+    right : 8px;
+    bottom : 8px;
+        font-family: "Kanit", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        overflow-x : hidden;
+        overflow-y : hidden;
+       
+}
+
+div:hover {
+    text-shadow :10px 0px 30px rgb(243, 192, 116)  ;
+}
+.barre {
+    color : white;
+    /*------------------------------------------------------------*/    
+        position :relative;
+        bottom : 10px;
+        right : 10px;
+    /*------------------------------------------------------------*/       
+        background-color : gray;
+        opacity : 0.5;
+    /*------------------------------------------------------------*/       
+        padding : 50px;
+    /*------------------------------------------------------------*/   
+        font-size: 25px;
+      
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 700;
+        font-style: normal;  
+}
+
+.barre:hover {
+    width : 10000px;
+}
+/* DIV BARRE -----------------------------------------------------------*/
+/*1er PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+/*1er PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+/* NAV BARRE MISE EN PAGE DE DEBUT ----------------------------------------! */ 
+/* DIV BARRE -----------------------------------------------------------*/
+.p
+{
+position :relative;
+left : 1000px;
+
+}
+.img
+{
+    position :relative;
+    width : 150px;
+    bottom : 150px;
+
+}
+
+a 
+{
+    text-decoration : none;
+    color : white;
+    display :inline;
+}
+
+.a0 
+{
+    padding : 10px;
+}    
+.a1
+{
+   padding : 10px;
+}
+.a2
+{
+    padding : 10px;
+    
+}
+.a3 
+{
+    padding : 10px;
+  
+}
+
+.a4
+{
+    padding : 10px;
+  
+}
+
+.a5
+{
+    padding : 10px;
+     
+}
+.a6
+{
+    border : 10px solid;
+    border-width : 10px;
+    border-color : white ;
+    border-right : 10px;
+    border-top : 10px;
+    border-bottom : 10px;
+    padding-left : 15px;
+}
+
+
+
+/*1er PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+/*1er PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ */
+/* NAV BARRE MISE EN PAGE DE DEBUT ----------------------------------------! */ 
+/* DIV BARRE -----------------------------------------------------------*/
+
+/* 2ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+/* 2ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+
+h1 {
+
+ 
+      color : blanchedalmond;
+        font-family: "Racing Sans One", sans-serif;
+        font-weight: 400;
+        font-style: normal;  
+        font-size : 90px;
+        letter-spacing : 5px;
+        position : relative;
+        bottom : 210px;
+        left : 50px;
+        opacity: 0.8;
+        text-shadow : 30px 0px 30px gray;
+}
+.parag1
+{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 700;
+    font-style: normal;  
+    font-size : 20px;
+    color :blanchedalmond;
+    letter-spacing : 6px;
+    position : relative;
+    bottom: 250px;
+    left: 700px;
+    opacity: 0.8;
+    text-shadow : 30px 0px 30px blanchedalmond;
+    
+}
+
+.parag1bis
+{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 700;
+    font-style: normal;  
+    font-size : 20px;
+    color :blanchedalmond;
+    letter-spacing : 6px;
+    position : relative;
+    right : 40px;
+    word-spacing : 30px;
+}
+/* 2ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+/* 2ème PARTIE -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-*/
+/* MISE EN LOCATION PREMIER SCOOTER */
+.s1:hover .parat {
+    opacity: 1;
+    height: auto;
+    visibility: visible;
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    
+}
+.s1:hover .mev1,
+.s1:hover .prixmev1,
+.s1:hover .parat {
+    color: black;
+    z-index: 1100;
+    opacity:1;
+}
+.s1:hover {
+    background-color :blanchedalmond;
+    z-index: 1100;
+}
+div:hover {
+    width :2000px;
+}
+
+.dpp1 {
+    position:relative;
+    bottom : 200px;
+    right :100px;
+}
+.displayinline
+{
+    display : inline;
+    right : 24px;
+}
+
+.s1
+{
+    display: inline-block;
+    border : 10px solid ;
+    border-color : rgb(26, 24, 21);
+    border-style : ridge;
+    box-shadow : 10px 50px 30px rgb(255, 244, 226)  ;
+    opacity :1;
+    padding-bottom : 70px;
+    width : 600px;
+    height : 600px;
+    position : relative;
+    left : 100px; 
+    background-color: black;
+    opacity : 0.9;
+    transition: width 5s ease, background-color 5s ease, 
+     color 5.3s ease;
+    overflow-x: visible;
+}
+
+.I1
+{
+    width : 700px;
+    position : relative;
+    top : 25px;
+    opacity :1;
+    
+}
+
+.positionimage1
+{
+    width : 400px;
+    position : relative;
+    top : 60px;
+    right : 150px;
+    opacity :1;
+}
+.parat {
+    opacity: 0;
+    height: 0;
+    overflow: hidden;
+    width: 1000px;
+    font-size: 30px;
+    position: absolute;
+    top: 200px;
+    left: 700px;
+    transition: opacity 8s ease, height 8s ease;
+}
+
+
+
+.mev1
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: blanchedalmond;
+    opacity : 1;
+    position : relative ;
+    bottom :520px;
+    left : 150px;
+    font-size : 60px;
+    transition: color 5s ease ;
+    
+}
+.prixmev1
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: blanchedalmond;
+    opacity : 1;
+    position : relative ;
+    bottom : 96px;
+    left : 145px;
+    font-size : 60px;
+    transition: color 5s ease ;
+    
+}
+
+
+
+/* MISE EN LOCATION PREMIER SCOOTER */
+
+/* MISE EN LOCATION DEUXIEME SCOOTER */
+.s2 {
+    display: inline-block;
+    border: 10px solid;
+    border-color: rgb(26, 24, 21);
+    border-style: ridge;
+    box-shadow: 10px 50px 30px rgb(255, 244, 226);
+    opacity: 1;
+    padding-bottom: 70px;
+    width: 600px;
+    height: 600px;
+    position: relative;
+    left: 100px;
+    background-color: black;
+    opacity: 0.9;
+    transition: width 5s ease, background-color 5s ease, color 5.3s ease, left 2s ease; /* Ajout de la transition pour left */
+    z-index: 1000;
+    overflow-x: visible;
+}
+
+
+.s2:hover {
+    background-color: blanchedalmond;
+    left: -600px; 
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    opacity: 1;
+    visibility: visible;
+    z-index: 1000px;
+ 
+}
+
+.s2:hover .parat2 {
+    opacity: 1;
+    height: auto;
+    z-index: 1000;
+}
+
+.s2:hover .mev2,
+.s2:hover .prixmev2,
+.s2:hover .parat2 {
+    color: black;
+    z-index: 1000;
+}
+
+
+.dpp2 {
+    position:relative;
+    bottom : 890px;
+    left : 600px;
+}
+.displayinline
+{
+    display : inline;
+    right : 24px;
+}
+
+
+.I2
+{
+    width : 700px;
+    position : relative;
+    top : 25px;
+    opacity :1;
+    
+}
+
+.positionimage2
+{
+    width : 400px;
+    position : relative;
+    top : 60px;
+    right : 0px;
+    opacity :1;
+}
+.parat2 {
+    opacity: 0;
+    height: 0;
+    overflow: hidden;
+    width: 1000px;
+    font-size: 30px;
+    position: absolute;
+    top: 200px;
+    left: 700px;
+    transition: opacity 8s ease, height 8s ease;
+}
+
+
+
+.mev2
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: blanchedalmond;
+    opacity : 1;
+    position : relative ;
+    bottom :520px;
+    left : 120px;
+    font-size : 60px;
+    transition: color 5s ease ;
+    
+}
+.prixmev2
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: blanchedalmond;
+    opacity : 1;
+    position : relative ;
+    bottom : 96px;
+    left : 145px;
+    font-size : 60px;
+    transition: color 5s ease ;
+    
+}
+
+
+
+/* MISE EN LOCATION DEUXIEME SCOOTER */
+/* MISE EN LOCATION TROISIEME SCOOTER */
+.s3 {
+    display: inline-block;
+    border: 10px solid;
+    border-color: rgb(26, 24, 21);
+    border-style: ridge;
+    box-shadow: 10px 50px 30px rgb(255, 244, 226);
+    opacity: 1;
+    padding-bottom: 70px;
+    width: 600px;
+    height: 600px;
+    position: relative;
+    left: 100px;
+    background-color: black;
+    opacity: 0.9;
+    transition: width 5s ease, background-color 5s ease, color 5.3s ease, left 2s ease; /* Ajout de la transition pour left */
+    overflow-x: visible;
+    z-index: 100;
+}
+
+.s3:hover {
+    background-color: blanchedalmond;
+    left: -1300px; 
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    opacity: 1;
+    visibility: visible;
+    z-index : 1100;
+ 
+}
+
+.s3:hover .parat3 {
+    opacity: 1;
+    height: auto;
+    z-index : 1100;
+}
+
+.s3:hover .mev3,
+.s3:hover .prixmev3,
+.s3:hover .parat3 {
+    color: black;
+    z-index : 1100;
+}
+
+
+.dpp3 {
+    position:relative;
+    bottom : 1580px;
+    left : 1300px;
+}
+.displayinline
+{
+    display : inline;
+    right : 24px;
+}
+
+
+.I3
+{
+    width : 700px;
+    position : relative;
+    top : 25px;
+    opacity :1;
+    
+}
+
+.positionimage3
+{
+    width : 400px;
+    position : relative;
+    top : 60px;
+    right : 0px;
+    opacity :1;
+}
+.parat3 {
+    opacity: 0;
+    height: 0;
+    overflow: hidden;
+    width: 1000px;
+    font-size: 30px;
+    position: absolute;
+    top: 200px;
+    left: 700px;
+    transition: opacity 8s ease, height 8s ease;
+}
+
+
+
+.mev3
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: blanchedalmond;
+    opacity : 1;
+    position : relative ;
+    bottom :550px;
+    left : 55px;
+    font-size : 60px;
+    transition: color 5s ease ;
+    
+}
+.prixmev3
+{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: blanchedalmond;
+    opacity : 1;
+    position : relative ;
+    bottom : 96px;
+    left : 145px;
+    font-size : 60px;
+    transition: color 5s ease ;
+    
+}
+
+
+
+/* MISE EN LOCATION TROISIEME SCOOTER */
+
+
+
